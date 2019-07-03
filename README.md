@@ -12,5 +12,3 @@ The system developed is a very simple movie recommender system in Python that us
 # The python libraries mainly used are:
 1. Numpy
 2. Pandas
-3. Matplotlib
-4. Seaborn
